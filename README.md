@@ -1,6 +1,6 @@
 Platform: Win10 above X64
 
-Default detect duration： 30000ms
+Default detect duration： 1000ms
 Default shake offset: 10
 
 How to run program:
